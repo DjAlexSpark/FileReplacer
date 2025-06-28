@@ -16,6 +16,6 @@ At the top is the directory where to get the files, at the bottom is where to lo
 
 ![ProgrammView](https://github.com/DjAlexSpark/FileReplacer/blob/main/view.png)
 
-Если надумаете компилить сами мавен подтянет всё сам, а именно javafx и maven-compiler.
+Если надумаете компилить сами, Мавен подтянет всё сам, а именно Javafx и Maven-Compiler.
 Если лень, качайте FileReplacer.jar установите Java и будет вам счастье.
 Удачи!
