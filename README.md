@@ -14,8 +14,8 @@ At the top is the directory where to get the files, at the bottom is where to lo
 Вверху папка откуда взять файлы, внизу где искать файлы с таким же названием, поставьте галочку в CheckBox если нужно  искать файлы во вложенных папках (по умолчанию она всегда стоит).
 </p>
 
-![[view.png]]
+![ProgrammView](https://github.com/DjAlexSpark/FileReplacer/blob/main/view.png)
 
-Если надумаете компилить сами мавен подтянет всё сам, а именно javafx и maven-compiler.
-Если лень, качайте FileReplacer.jar установите Java и будет вам счастье.
+Если надумаете компилить сами, Мавен подтянет всё сам, а именно Javafx (я использовал 17 версию) и Maven-Compiler.
+Если лень, качайте FileReplacer.jar, установите Java и будет вам счастье.
 Удачи!
